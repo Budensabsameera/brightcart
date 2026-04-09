@@ -1,0 +1,547 @@
+
+> ecommerce-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m443[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.115.112.61:[1m5173[22m/[39m
+[2m7:37:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:38:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:38:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:39:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:40:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:40:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m7:40:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:44:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:44:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:44:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:47:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:48:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:54:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:55:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:00:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m8:01:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:58:46 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:00:17 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:00:36 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:04:53 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:04:53 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:04:53 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:05:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:08:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:10:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:11:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:12:10 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:12:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:12:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:13:06 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:13:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:18:47 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:19:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:21:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:22:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Footer.jsx[22m
+[2m7:23:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Footer.jsx[22m
+[2m7:25:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:25:25 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m7:25:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m7:25:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m7:26:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:29:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx, /src/pages/ProductListPage.jsx[22m
+[2m7:29:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:31:36 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:32:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:33:09 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:33:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:36:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:36:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:36:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:38:54 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m7:39:17 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m7:39:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:41:40 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m7:41:45 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:41:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m7:41:58 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m7:42:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:42:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m7:43:47 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m7:43:47 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m7:43:47 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m7:44:00 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Layout.jsx[22m
+[2m7:44:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:47:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m7:47:21 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m7:47:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m7:47:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m7:47:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m7:47:57 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m7:47:57 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m7:54:46 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx[22m
+[2m7:54:46 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m7:54:46 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m7:54:46 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m7:54:46 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m7:55:49 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m7:55:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:55:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m7:56:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:12 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:00:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m8:00:33 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:00:33 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:00:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m8:00:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m8:03:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m8:03:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m8:03:41 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:06:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m8:09:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m8:09:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:09:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:10:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m8:10:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:10:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m8:10:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:10:57 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:10:57 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:14:44 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:15:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m8:15:05 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:15:05 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:15:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m8:15:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:15:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:21:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m8:21:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:21:51 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:22:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ForgotPasswordPage.jsx[22m
+[2m8:22:31 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ForgotPasswordPage.jsx[22m
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:26:56 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:30:13 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:30:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx[22m
+[2m8:30:32 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:30:32 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m8:31:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:31:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m8:31:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:20:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:20:45 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:21:10 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:21:10 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:21:10 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:21:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m10:21:22 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:21:22 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:22:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:22:25 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:22:25 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:23:39 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:23:47 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:23:47 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:23:47 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:25:10 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:25:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:25:25 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:25:25 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:25:25 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:25:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/ProtectedRoute.jsx[22m
+[2m10:25:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AdminRoute.jsx[22m
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx[22m
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:37:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:37:46 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:37:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m10:38:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/pages/AccountPage.jsx[22m
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:41:49 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:42:12 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m10:42:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:42:21 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:42:21 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:42:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m10:42:41 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m10:42:55 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m10:43:03 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m10:43:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m10:43:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:43:49 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:43:49 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:44:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:44:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:44:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:44:54 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:45:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m10:45:48 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/WishlistContext.jsx[22m
+[2m10:46:58 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:46:58 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:46:58 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:46:58 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m10:48:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx[22m
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:48:19 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m10:48:53 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:48:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m10:49:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:49:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx, /src/pages/AdminOrdersPage.jsx[22m
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:52:11 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m10:52:58 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m10:53:03 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m10:53:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:57:17 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m10:57:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminDashboardPage.jsx[22m
+[2m10:58:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m10:59:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m10:59:06 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:59:25 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:04:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m11:04:02 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:04:02 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:04:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m11:04:14 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:04:14 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:04:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m11:04:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/CartItem.jsx[22m
+[2m11:04:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CheckoutPage.jsx[22m
+[2m11:05:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m11:05:11 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m11:05:17 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:11:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:11:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:13:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m11:13:24 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:13:24 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:13:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx, /src/context/CartContext.jsx, /src/context/ProductContext.jsx[22m
+[2m11:13:33 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:13:33 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:13:33 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:13:33 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m11:13:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m11:13:55 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m11:14:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:14:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m11:14:15 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:14:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:15:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:16:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m11:16:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:18:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m11:18:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:20:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:20:19 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:22:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/WishlistContext.jsx[22m
+[2m11:22:15 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:22:15 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m11:26:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m11:26:37 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:28:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:28:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:28:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:35:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx, /src/pages/AdminOrdersPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/AdminCustomersPage.jsx[22m
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:35:52 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m11:36:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:36:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:41:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:41:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:43:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:43:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:44:56 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:45:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m11:50:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m11:52:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminOrdersPage.jsx[22m
+[2m11:52:41 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m12:08:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx[22m
+[2m12:08:14 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:08:14 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m12:08:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m12:08:27 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:08:27 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m12:08:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m12:08:38 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:08:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m12:08:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m12:19:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx[22m
+[2m12:19:47 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:19:47 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m12:19:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m12:20:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m12:22:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m12:22:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:22:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m12:22:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CheckoutPage.jsx[22m
+[2m12:24:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx, /src/pages/AdminOrdersPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/AdminCustomersPage.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:53:38 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m1:54:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m1:54:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m1:55:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductListPage.jsx[22m
+[2m1:55:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m1:56:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CategoryContext.jsx[22m
+[2m1:56:21 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CategoryContext.jsx[22m Could not Fast Refresh ("useCategories" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:56:21 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CategoryContext.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CategoryContext.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m1:59:22 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:59:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m1:59:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CategoryContext.jsx[22m Could not Fast Refresh ("useCategories" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:59:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CategoryContext.jsx[22m
+[2m2:12:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx, /src/pages/AdminOrdersPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/AdminCustomersPage.jsx, /src/context/CategoryContext.jsx[22m
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CategoryContext.jsx[22m Could not Fast Refresh ("useCategories" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:12:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CategoryContext.jsx[22m
+[2m2:13:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m2:13:28 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:13:28 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx, /src/pages/AccountPage.jsx[22m
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/OrderSuccessPage.jsx[22m
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminOrdersPage.jsx[22m
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:14:04 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m2:17:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:17:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m2:17:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminDashboardPage.jsx[22m
+[2m2:17:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m2:17:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CheckoutPage.jsx[22m
+[2m2:19:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m2:22:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCouponsPage.jsx[22m
+[2m2:24:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCouponsPage.jsx[22m
+[2m2:25:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m2:27:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m2:36:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:36:51 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:36:51 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m2:37:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m2:37:05 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:37:05 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m2:37:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Layout.jsx[22m
+[2m2:38:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:39:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m2:39:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m2:39:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m2:40:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m2:55:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m3:11:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m3:11:43 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:11:43 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m3:15:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m3:15:25 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:15:25 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m3:24:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m3:24:23 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:24:23 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m3:28:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m3:28:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m3:29:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m3:31:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/WishlistContext.jsx[22m
+[2m3:31:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/product/ProductCard.jsx[22m
+[2m3:32:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProductDetailPage.jsx[22m
+[2m3:33:59 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:34:00 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m3:37:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m3:38:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m3:38:06 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:38:06 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m3:44:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CartPage.jsx[22m
+[2m3:44:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/ProductContext.jsx, /src/context/CartContext.jsx, /src/context/AuthContext.jsx, /src/context/WishlistContext.jsx, /src/pages/AccountPage.jsx, /src/pages/AdminOrdersPage.jsx, /src/pages/AdminDashboardPage.jsx, /src/pages/AdminCustomersPage.jsx, /src/context/CategoryContext.jsx, /src/pages/AdminCouponsPage.jsx[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/ProductContext.jsx[22m Could not Fast Refresh ("useProducts" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/ProductContext.jsx[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CategoryContext.jsx[22m Could not Fast Refresh ("useCategories" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:03 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CategoryContext.jsx[22m
+[2m4:02:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m4:02:35 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m4:02:35 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m4:04:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m4:05:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/BusinessAccountPage.jsx[22m
+[2m4:05:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m4:05:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m4:05:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m5:58:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/BusinessAccountPage.jsx[22m
+[2m6:00:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:01:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:10:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m6:10:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/BusinessAccountPage.jsx[22m
+[2m6:10:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:15:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/BusinessAccountPage.jsx[22m
+[2m6:16:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:25:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/BusinessAccountPage.jsx[22m
+[2m6:25:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SignupPage.jsx[22m
+[2m6:26:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:33:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCustomersPage.jsx[22m
+[2m6:39:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m6:39:44 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m6:39:44 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m6:39:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/CustomerLayout.jsx[22m
+[2m6:40:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/CustomerLayout.jsx[22m
+[2m6:40:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m6:40:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m6:44:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCustomersPage.jsx[22m
+[2m6:45:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminOrdersPage.jsx[22m
+[2m6:45:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminProductsPage.jsx[22m
+[2m6:46:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m6:46:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m6:47:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:52:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m6:52:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m6:52:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:56:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m6:56:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m6:57:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m6:57:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:01:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m7:01:55 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m7:01:55 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m7:02:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:03:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:15:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m7:16:10 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/pages/WishlistPage.jsx[22m
+[2m7:16:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:17:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:17:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m7:17:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m7:20:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:21:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:21:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:22:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:22:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:22:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:22:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m7:26:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:26:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/WishlistPage.jsx[22m
+[2m7:27:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m7:33:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminDashboardPage.jsx[22m
+[2m7:45:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m7:46:14 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m7:47:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:02:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m8:02:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m8:03:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:04:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:05:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:06:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m8:06:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m8:07:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:09:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.jsx[22m
+[2m8:53:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AdminLayout.jsx[22m
+[2m8:54:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:59:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/CartContext.jsx[22m
+[2m8:59:44 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/CartContext.jsx[22m Could not Fast Refresh ("useCart" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:59:44 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/CartContext.jsx[22m
+[2m8:59:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/WishlistContext.jsx[22m
+[2m8:59:59 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/WishlistContext.jsx[22m Could not Fast Refresh ("useWishlist" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m8:59:59 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/WishlistContext.jsx[22m
+[2m9:00:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m9:00:12 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:00:12 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m9:00:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminOrdersPage.jsx[22m

@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: brightcart-backend
+    runtime: java
+    rootDir: backend
+    buildCommand: "./mvnw clean package -DskipTests"
+    startCommand: "java -jar target/ecommerce-backend-0.0.1-SNAPSHOT.jar"
+    plan: free
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: local
+      - key: APP_CORS_FRONTEND_URL
+        sync: false
