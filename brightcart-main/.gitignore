@@ -4,6 +4,8 @@ frontend/dist/
 
 # Backend
 backend/target/
+backend/.mvn/wrapper/dists/
+backend/.m2-local/
 
 # IDE and OS
 .idea/
