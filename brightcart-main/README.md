@@ -55,6 +55,11 @@ Recommended split deployment:
 - Frontend on Netlify
 - Backend on Render
 
+Railway can also host the backend, but the service must either:
+
+- use `brightcart-main/backend` as the root directory, or
+- build from the repo root with the repo-level `mvnw` wrapper included here
+
 ### Backend on Render
 
 This repo includes [render.yaml](/c:/Users/buden/OneDrive/Desktop/Pictures/Desktop/ecommerce_project/render.yaml) for the Spring Boot API.
@@ -65,6 +70,23 @@ Important environment variables:
 - `APP_CORS_FRONTEND_URL=https://your-netlify-site.netlify.app`
 
 The backend now reads the host-provided `PORT` automatically.
+
+### Backend on Railway
+
+If Railway is pointed at the repository root, use:
+
+- Build command: `chmod +x mvnw && ./mvnw clean package -DskipTests`
+- Start command: `java -jar target/ecommerce-backend-0.0.1-SNAPSHOT.jar`
+
+If you set Railway's root directory to `brightcart-main/backend`, use:
+
+- Build command: `chmod +x mvnw && ./mvnw clean package -DskipTests`
+- Start command: `java -jar target/ecommerce-backend-0.0.1-SNAPSHOT.jar`
+
+Important environment variables:
+
+- `SPRING_PROFILES_ACTIVE=local`
+- `APP_CORS_FRONTEND_URL=https://your-frontend-domain`
 
 ### Frontend on Netlify
 

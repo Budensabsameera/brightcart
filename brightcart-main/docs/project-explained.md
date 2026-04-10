@@ -911,3 +911,28 @@ If you want, the next helpful documents I can create are:
   only tables and SQL in simple words
 - `docs/api-explained.md`
   every API endpoint explained one by one
+
+## 14. Deployment Note
+
+This repository is not flat.
+
+The real backend lives in:
+
+- [backend](/c:/Users/buden/OneDrive/Desktop/Pictures/Desktop/ecommerce_project/backend)
+
+Inside the current workspace, that folder is:
+
+- `brightcart-main/backend`
+
+Why this matters:
+
+- Maven wrapper files (`mvnw`, `mvnw.cmd`)
+- `pom.xml`
+- compiled backend jar in `target/`
+
+all belong to the backend module, not the outer repo folder.
+
+For platforms like Railway or Render, deployment works when the backend service either:
+
+- uses `brightcart-main/backend` as its root directory, or
+- uses the repo-root wrapper `mvnw` file that forwards the build into the backend module and copies the jar to the repo-root `target/` folder
