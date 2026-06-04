@@ -4,10 +4,10 @@ services:
     runtime: java
     rootDir: brightcart-main/backend
     buildCommand: "chmod +x mvnw && ./mvnw clean package -DskipTests"
-    startCommand: "java -jar target/ecommerce-backend-0.0.1-SNAPSHOT.jar"
+    startCommand: "java -Dspring.profiles.active=local -jar target/ecommerce-backend-0.0.1-SNAPSHOT.jar"
     plan: free
     envVars:
-      - key: SPRING_PROFILES_ACTIVE
-        value: local
+      - key: PORT
+        value: "8080"
       - key: APP_CORS_FRONTEND_URL
         sync: false
