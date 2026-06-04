@@ -1,0 +1,9 @@
+[build]
+  base = "brightcart-main/frontend"
+  command = "npm run build"
+  publish = "brightcart-main/frontend/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
